@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\bin\Debug\list.students1.exe.config
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\bin\Debug\list.students1.exe
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\bin\Debug\list.students1.pdb
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.Form1.resources
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.Properties.Resources.resources
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.exe
+C:\Users\ALUMNO\Desktop\Student..LIST\list.students1\list.students1\obj\Debug\list.students1.pdb
